@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="vm03.students.learn.co" name="com.flatironschool.javacs.WikiPhilosophyTest" skipped="0" tests="1" time="1.275" timestamp="2016-06-16T18:31:53">
+<testsuite errors="0" failures="0" hostname="vm03.students.learn.co" name="com.flatironschool.javacs.WikiPhilosophyTest" skipped="0" tests="1" time="5.107" timestamp="2016-06-16T18:42:17">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
@@ -21,7 +21,7 @@
     <property name="env.SHELL" value="/bin/bash" />
     <property name="env.NODE_PATH" value="/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript" />
     <property name="env._system_type" value="Linux" />
-    <property name="env.PATH" value="/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/usr/local/rvm/gems/ruby-2.3.0/bin:/usr/local/rvm/gems/ruby-2.3.0@global/bin:/usr/local/rvm/rubies/ruby-2.3.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/local/rvm/bin" />
+    <property name="env.PATH" value="/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/var/opt/rails/bin:/var/opt/httpserver/bin:/var/opt/atom/bin:/var/opt/shotgun/bin:/var/opt/rackup/bin:/var/opt/jekyll/bin:/usr/local/rvm/gems/ruby-2.3.0/bin:/usr/local/rvm/gems/ruby-2.3.0@global/bin:/usr/local/rvm/rubies/ruby-2.3.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/local/rvm/bin" />
     <property name="user.language" value="en" />
     <property name="env.BUNDLE_ORIG_GEM_PATH" value="/usr/local/rvm/gems/ruby-2.3.0:/usr/local/rvm/gems/ruby-2.3.0@global" />
     <property name="env.rvm_prefix" value="/usr/local" />
@@ -39,7 +39,7 @@
     <property name="sun.jnu.encoding" value="UTF-8" />
     <property name="env.rvm_bin_path" value="/usr/local/rvm/bin" />
     <property name="file.encoding.pkg" value="sun.io" />
-    <property name="env.SHLVL" value="5" />
+    <property name="env.SHLVL" value="2" />
     <property name="file.separator" value="/" />
     <property name="env._system_version" value="14.04" />
     <property name="java.specification.name" value="Java Platform API Specification" />
@@ -71,9 +71,9 @@
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.3 compiled on April 8 2014" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.WikiPhilosophyTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junit/TEST-com.flatironschool.javacs.WikiPhilosophyTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junitvmwatcher4995196877961230373.properties propsfile=/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junit6159779017465924365.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.WikiPhilosophyTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junit/TEST-com.flatironschool.javacs.WikiPhilosophyTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junitvmwatcher3887999199131211394.properties propsfile=/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/junit1021458316922667397.properties" />
     <property name="java.class.path" value="/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/bin:/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/lib/jsoup-1.8.3.jar:/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/lib/junit-4.12.jar:/home/cheryllimer/code/labs/cs-wikipedia-philosophy-lab-codeU/javacs-lab05/lib/hamcrest-core-1.3.jar:/usr/share/java/ant-launcher-1.9.3.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
-    <property name="env.XDG_SESSION_ID" value="c5302" />
+    <property name="env.XDG_SESSION_ID" value="c5320" />
     <property name="ant.file.type.JavaCS" value="file" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
@@ -104,12 +104,9 @@
     <property name="java.specification.version" value="1.7" />
     <property name="ant.project.invoked-targets" value="test" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.WikiPhilosophyTest" name="testMain" time="1.188">
-    <error message="Complete this lab by adding your code and removing this statement." type="java.lang.UnsupportedOperationException">java.lang.UnsupportedOperationException: Complete this lab by adding your code and removing this statement.
-	at com.flatironschool.javacs.WikiPhilosophy.main(WikiPhilosophy.java:49)
-	at com.flatironschool.javacs.WikiPhilosophyTest.testMain(WikiPhilosophyTest.java:29)
-</error>
-  </testcase>
-  <system-out><![CDATA[Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented,[14] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),[15] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[16] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. As of 2016, Java is one of the most popular programming languages in use,[17][18][19][20] particularly for client-server web applications, with a reported 9 million developers.[citation needed] Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.]]></system-out>
+  <testcase classname="com.flatironschool.javacs.WikiPhilosophyTest" name="testMain" time="5.028" />
+  <system-out><![CDATA[Found!
+[https://en.wikipedia.org/wiki/Java_(programming_language), https://en.wikipedia.org/wiki/Programming_language, https://en.wikipedia.org/wiki/Formal_language, https://en.wikipedia.org/wiki/Mathematics, https://en.wikipedia.org/wiki/Quantity, https://en.wikipedia.org/wiki/Property_(philosophy), https://en.wikipedia.org/wiki/Philosophy]
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
